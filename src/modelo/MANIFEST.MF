@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: Fernando Gomez Martirena
+Main-Class: PantallaBienvenida
+X-COMMENT: Curso de Java de La Geekipedia de Ernesto. (basico)
